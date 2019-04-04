@@ -11,3 +11,6 @@ calculations. Given that each frame needs to be checked once, this can be time c
 
 chemshell_energy.py
 Greps absolute energy and energy changes from a chemshell log file in kcal/mol
+
+find_centermost_atom.py
+Finds the centermost atom in a PDB. Useful for determining boundary conditions in subsequent calculations
