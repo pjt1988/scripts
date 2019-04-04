@@ -8,3 +8,6 @@ In VMD, save the entire trajectory as a PDB (at least all frames of interest), a
 dynamic_regions.py
 This script will write out all residues and constituent atoms of any residue within a given radius of any atoms within selected residues. The script differentiates between QM and active regions for later 
 calculations. Given that each frame needs to be checked once, this can be time consuming.
+
+chemshell_energy.py
+Greps absolute energy and energy changes from a chemshell log file in kcal/mol
