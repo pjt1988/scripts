@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#got this from stack overflow some time ago
 
 awk '
 { 
